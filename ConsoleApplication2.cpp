@@ -5,9 +5,9 @@
 
 int main()
 {
-    std::cout << "Hello GitHub!\n";
-    std::cout << "Hello ConflictBranch2!\n";
-
+    std::cout << "Hello Remote_GitHub!\n";
+    std::cout << "Hello Remote_ConflictBranch2!\n";
+}
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
 // プログラムのデバッグ: F5 または [デバッグ] > [デバッグの開始] メニュー
 
